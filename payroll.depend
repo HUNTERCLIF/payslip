@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657651785 source:c:\users\wyclif\onedrive\desktop\c code\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
